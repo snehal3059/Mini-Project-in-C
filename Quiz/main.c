@@ -23,7 +23,7 @@ void mainMenu(){
 
     system("cls");
     gotoxy(30,8);
-    printf("WELCOME TO I.Q TEST PROGRAM");
+    printf("WELCOME TO THE QUIZ");
     gotoxy(30,10);
     printf("----------------------------");
     gotoxy(30,12);
